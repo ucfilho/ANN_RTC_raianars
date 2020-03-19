@@ -8,7 +8,7 @@ import Utilidades
 
 
 
-def FUN(x):
+def Function(x):
 
   global mCp,tempAtual,tempAlvo,tempInicial,U,coefCustoUQ,coefCustoUF
   
