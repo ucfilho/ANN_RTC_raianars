@@ -1,3 +1,13 @@
+#from AvaliaX import AvaliaX
+#from Go2Ann import Go2Ann
+import Area
+import buildMatriz
+import CustoProcesso
+import Temperatura
+import Utilidades
+
+
+
 def FUN(x):
 
   global mCp,tempAtual,tempAlvo,tempInicial,U,coefCustoUQ,coefCustoUF
